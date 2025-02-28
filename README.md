@@ -1,4 +1,3 @@
-Here's a comprehensive README.md file for the Ethical Hacking Assistant tool:
 
 ```markdown
 # Ethical Hacking Assistant 🤖🔒
